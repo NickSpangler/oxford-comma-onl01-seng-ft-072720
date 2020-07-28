@@ -12,5 +12,4 @@ def oxford_comma(array)
     end
     string_array << "and #{array.last}"
    end
-  string_array
 end 
